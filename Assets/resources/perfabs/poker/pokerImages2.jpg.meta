@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: 438838cee6d29cd40a9b2c97a982fcc5
+timeCreated: 1524904800
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pokerImages2_0
+    21300002: pokerImages2_1
+    21300004: pokerImages2_2
+    21300006: pokerImages2_3
+    21300008: pokerImages2_4
+    21300010: pokerImages2_5
+    21300012: pokerImages2_6
+    21300014: pokerImages2_7
+    21300016: pokerImages2_8
+    21300018: pokerImages2_9
+    21300020: pokerImages2_10
+    21300022: pokerImages2_11
+    21300024: pokerImages2_12
+    21300026: pokerImages2_13
+    21300028: pokerImages2_14
+    21300030: pokerImages2_15
+    21300032: pokerImages2_16
+    21300034: pokerImages2_17
+    21300036: pokerImages2_18
+    21300038: pokerImages2_19
+    21300040: pokerImages2_20
+    21300042: pokerImages2_21
+    21300044: pokerImages2_22
+    21300046: pokerImages2_23
+    21300048: pokerImages2_24
+    21300050: pokerImages2_25
+    21300052: pokerImages2_26
+    21300054: pokerImages2_27
+    21300056: pokerImages2_28
+    21300058: pokerImages2_29
+    21300060: pokerImages2_30
+    21300062: pokerImages2_31
+    21300064: pokerImages2_32
+    21300066: pokerImages2_33
+    21300068: pokerImages2_34
+    21300070: pokerImages2_35
+    21300072: pokerImages2_36
+    21300074: pokerImages2_37
+    21300076: pokerImages2_38
+    21300078: pokerImages2_39
+    21300080: pokerImages2_40
+    21300082: pokerImages2_41
+    21300084: pokerImages2_42
+    21300086: pokerImages2_43
+    21300088: pokerImages2_44
+    21300090: pokerImages2_45
+    21300092: pokerImages2_46
+    21300094: pokerImages2_47
+    21300096: pokerImages2_48
+    21300098: pokerImages2_49
+    21300100: pokerImages2_50
+    21300102: pokerImages2_51
+    21300104: pokerImages2_52
+    21300106: pokerImages2_53
+    21300108: pokerImages2_54
+    21300110: pokerImages2_55
+    21300112: pokerImages2_56
+    21300114: pokerImages2_57
+    21300116: pokerImages2_58
+    21300118: pokerImages2_59
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokerImages2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715
+        width: 102
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 715
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 715
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 715
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 715
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 715
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 715
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 715
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 715
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_9
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 715
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 572
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 572
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 572
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 572
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 572
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 572
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_17
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 572
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 572
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 572
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 429
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 429
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 429
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 429
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 429
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 429
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 429
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_28
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 429
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 429
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 286
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 286
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 286
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 286
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 286
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_35
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 286
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 286
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_37
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 286
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_38
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 286
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_39
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 286
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 143
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 143
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 143
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 143
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_45
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 143
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 143
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_47
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 143
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_48
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 143
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_49
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 143
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_54
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_55
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_56
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_57
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_58
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pokerImages2_59
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 102.4
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
